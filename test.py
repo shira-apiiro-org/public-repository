@@ -1,11 +1,12 @@
 import requests
 
 # comment password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
-password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
+password = """AIzaSyCzmABOfcTbibaP_VmZPs
+Fn0q3Ro2sXlHQ"""
 
 response = requests.get('http://google.com', {'password': password})
 
-password = @"-----BEGIN OPENSSH PRIVATE KEY-----
+privateKey = @"-----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAARAAABAAABlwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAYEA3iQAEhtguvLAn6Neygvn7YqAQ3MUoZ7n9sdyvH+gwnd1HqcglnTI
 Pl1d16/5FMpiEvLWKmTW0fkqXD+5yxDWMNsno/7zIW0JMpdZJ3w/R8772ZEJABIYySMYeX
