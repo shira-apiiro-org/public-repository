@@ -1,5 +1,7 @@
 import requests
 
+pass = "AIzaSyCzmABOfcTbibcP_VnZPsFn0q2Ro2sXlHQ"
+
 pwd = "AIzaSyDzmABOfcTbibcP_VnZPhFn0q3Ro3sXlSQ"
 password = "AIzaSyDzmABOfcTbibcP_VnZPsFn0q2Ro2sXlSQ"
 
