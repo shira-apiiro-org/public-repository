@@ -8,3 +8,6 @@ pass = "BIzbSeCznABOfcTbibaP_VmZPsFn0q1Ro3sXlHQ"
 
 res = requests.get('http://google.com', {'password': pass})
 token= "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"
+
+pwd = "AIzaSyDzmABOfcTbibcP_VnZPhFn0q3Ro3sXlSQ"
+# pwd = "AIzaSyDzmABOfcTbibcP_VnZPhFn0q3Ro3sXlSQ"
