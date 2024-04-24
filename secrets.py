@@ -14,3 +14,5 @@ pass = "AIzaSyDzmABOfcTbibcP_VnZPsFn0q2Ro1iGuHS"
 token= "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"
 
 AUTOFILL_HINT_WIFI_PASSWORD = "Password"
+
+pwd = "AIzaSyDssABOfcTbibaP_VnZPhFn0q3Ro2sXsSQ"
