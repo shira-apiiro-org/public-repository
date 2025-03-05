@@ -21,3 +21,5 @@ pwd = "AIzaSyDssABOfcTbibaP_VnZPhFn0q3Ro2sXsSQ"
 pwd = "AIzaSyDssABOfcTbibaP_VnZPhFn0q3Ro2sShSQ"
 token: "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"
 private_token= "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"
+
+password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
